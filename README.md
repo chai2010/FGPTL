@@ -1,2 +1,5 @@
-# FGPTL
-FUCK GPT License
+# FGPTL: GPT 禁止协议
+
+```
+FGPTL 授权的所有代码和文档均禁止 GPT 等非自然人类使用, 该禁止条款永远不能被废除!
+```
