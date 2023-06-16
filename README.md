@@ -1,0 +1,2 @@
+# FGPTL
+FUCK GPT License
